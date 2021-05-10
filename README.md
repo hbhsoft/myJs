@@ -16,4 +16,5 @@ myJs addin for NX
 myJs for desktop
 myJs for android
 
-If interest for this tool, please contact
+This tool is in early develope, I need time and money to finish,
+If interest for this tool, please doate and contact
